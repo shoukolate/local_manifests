@@ -3,5 +3,5 @@
 <project name="LineageOS-MI-A2-MI-6X/android_device_xiaomi_sdm660-common" path="device/xiaomi/sdm660-common" remote="github" revision="lineageos-17.1"/>
 <project name="LineageOS-MI-A2-MI-6X/android_kernel_xiaomi_sdm660" path="kernel/xiaomi/sdm660" remote="github" revision="master"/>
 <project name="LineageOS-MI-A2-MI-6X/android_vendor_xiaomi_sdm660-common" path="vendor/xiaomi/sdm660-common" remote="github" revision="master"/>
-<project name="LineageOS-MI-A2-MI-6X/android_vendor_xiaomi_wayne" path="vendor/xiaomi/wayne" remote="github" revision="master"/>
+<project name="LineageOS-MI-A2-MI-6X/android_vendor_xiaomi_wayne-common" path="vendor/xiaomi/wayne-common" remote="github" revision="master"/>
 </manifest>
